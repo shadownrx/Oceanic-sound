@@ -1,0 +1,47 @@
+{
+    "content": [
+      {
+        "path": "SimObjects/Sounds/oceanic_airways/welcome_message.wav",
+        "size": 102400,
+        "date": 132943224000000000,
+        "type": "SOUND"
+      },
+      {
+        "path": "SimObjects/Sounds/oceanic_airways/safety_announcement.wav",
+        "size": 204800,
+        "date": 132943224000000000,
+        "type": "SOUND"
+      },
+      {
+        "path": "SimObjects/Sounds/oceanic_airways/copilot_takeoff.wav",
+        "size": 153600,
+        "date": 132943224000000000,
+        "type": "SOUND"
+      },
+      {
+        "path": "src/main.cpp",
+        "size": 3072,
+        "date": 132943224000000000,
+        "type": "TEXT"
+      },
+      {
+        "path": "ui/menu.html",
+        "size": 2048,
+        "date": 132943224000000000,
+        "type": "UI"
+      },
+      {
+        "path": "ui/menu.css",
+        "size": 1024,
+        "date": 132943224000000000,
+        "type": "UI"
+      },
+      {
+        "path": "ui/menu.js",
+        "size": 1024,
+        "date": 132943224000000000,
+        "type": "TEXT"
+      }
+    ]
+  }
+  
